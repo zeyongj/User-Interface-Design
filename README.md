@@ -1,12 +1,10 @@
-# CMPT 363
+# CMPT 363 README
 
-# README
-
-# INTRODUCTION
+## INTRODUCTION
 
 This is my backup of materials of Simon Fraser University's CMPT 363 course, the topic is about user interface design.
 
-# Contents
+## Contents
 
     Lectures
 
@@ -16,13 +14,13 @@ This is my backup of materials of Simon Fraser University's CMPT 363 course, the
 
     Assignments
 
-# License
+## License
 
 This work is licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) (or any later version).
 
     `SPDX-License-Identifier: Apache-2.0-or-later`
 
-# Disclaimer
+## Disclaimer
 
 This repository is ONLY for backup. Students should NEVER use this repository to finish their works, IN ANY WAY.
 
