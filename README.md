@@ -6,13 +6,13 @@ This is my backup of materials of Simon Fraser University's CMPT 363 course, the
 
 ## Contents
 
+    Assignments
+    
     Lectures
 
-    Readings
-
     Project
-
-    Assignments
+    
+    Readings
 
 ## License
 
