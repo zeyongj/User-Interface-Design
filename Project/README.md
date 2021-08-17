@@ -1,6 +1,6 @@
 # Project README
 
-# Introduction
+## Introduction
 
 The project consists of three parts.
 
